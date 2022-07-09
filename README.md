@@ -1,6 +1,6 @@
 # weatherapp
 
-A new Flutter project.
+A Flutter project which will tell the weather around you based on your geo-location . It uses OpenWeather API to fetch the weather data .
 
 ## Getting Started
 
